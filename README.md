@@ -2,7 +2,7 @@
 
 Dependency injector.
 
-*Proudly made in Valencia, Spain, EU.*
+*Proudly made with ♥ in Valencia, Spain, EU.*
 
 ## Functions
 
