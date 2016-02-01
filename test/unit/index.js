@@ -1,5 +1,5 @@
 //imports
-const injector = require("../../../dist/es5/nodejs/justo-injector");
+const injector = require("../../dist/es5/nodejs/justo-injector");
 
 //suites
 describe("#getParameters()", function() {
